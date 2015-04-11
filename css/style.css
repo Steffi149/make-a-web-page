@@ -1,0 +1,32 @@
+h1 {
+	color: white;
+  font-family: Arial;
+  padding: 20px
+}
+
+body {
+	background-color: black;
+  margin: 15px auto;
+  max-width: 1880px;
+  padding: 0px
+}
+h2 {
+	background-color: gray;
+  font-family: Helvetica;
+  padding: 5px
+ }
+.concept {
+	background-color: white;
+  }
+.extra {
+  background-color: #CCCCFF;
+  width: 550px;
+  padding: 10px;
+  position: absolute;
+        right: 550px; 
+        top: 2000px;
+	border: 3px dashed #CCC;
+  border-radius: 34px;
+    }
+
+
